@@ -1,6 +1,6 @@
 I have a passion for building data-centric solutions. I believe technology is one of the final frontiers for man to explore. The larger the size or complexity of the dataset only makes the solution more rewarding. As my career develops, I hope to spend most of my time wading through a sea of requests and data in the backend. Feel free to reach out to collaborate.
 
-Some of my projects I have worked on are listed below.
+Check out some of my project listed below.
 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/peter-mace-510b35131/)
 <!--
