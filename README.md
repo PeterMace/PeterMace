@@ -3,8 +3,9 @@ I have a passion for building data-centric solutions. I believe technology is on
 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/peter-mace-510b35131/)
 
-- 🔭 I’m currently working on projects using Node | React | Python | ROR | PHP | SQL | AWS | SQL | APIs 
-<code> 
+- 🔭 I’m currently working on projects using Node | React | Python | ROR | PHP | SQL | AWS | SQL | APIs
+
+<br />
 <code> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </code>
 <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </code>
 <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></code>
@@ -13,7 +14,7 @@ I have a passion for building data-centric solutions. I believe technology is on
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-</code>
+
 
 <!--
 **PeterMace/PeterMace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
