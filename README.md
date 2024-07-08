@@ -1,10 +1,9 @@
 I have a passion for building data-centric solutions. I believe technology is one of the final frontiers for man to explore. The larger the size or complexity of the dataset only makes the solution more rewarding. As my career develops, I hope to spend most of my time wading through a sea of requests and data in the backend. Feel free to reach out to collaborate.
 
-<a href="https://petermace.com" target="_blank" rel="noreferrer" > Check out some of my projects here.</a>
 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/peter-mace-510b35131/)
 
-- 🔭 I’m currently working on projects using JavaScript | Python | React | Redux | Flask | PHP | SQL | Github | AWS S3 | Mysql | Postgres | Wordpress | APIs 
+- 🔭 I’m currently working on projects using Node | React | Python | ROR | PHP | SQL | AWS | SQL | APIs 
 <code> 
 <code> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </code>
 <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </code>
